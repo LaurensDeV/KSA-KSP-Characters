@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Assets>
+    <GltfFile Id="KerbalGlb">
+        <Source Path="Characters/Kerbal/KSP_Kerbal.glb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalHelmetGlb">
+        <Source Path="Characters/Kerbal/KSP_Kerbal_Helmet.glb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalVisorGlb">
+        <Source Path="Characters/Kerbal/KSP_Kerbal_Visor.glb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimIdleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Idle.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimWalkGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Walk.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimRunGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Run.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimLadderGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Ladder.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJumpGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Jump.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimTumbleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Tumble.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJumpLandGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JumpLand.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMoonWalkGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MoonWalk.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMoonRunGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MoonRun.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimSwimGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Swim.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimSwimIdleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SwimIdle.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimSeatedIdleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SeatedIdle.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimSeatedShuffleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SeatedShuffle.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUIdle1Glb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle1.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUIdle2Glb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle2.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUIdle3Glb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle3.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMULeftGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMULeft.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMURightGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMURight.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUForward.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUBackwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUBackward.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUUpGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUUp.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimMMUDownGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUDown.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimExpScaredGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpScared.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimExpHappyGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpHappy.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimExpSadGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpSad.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimExpAngryGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpAngry.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimExpAweGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpAwe.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <PbrMaterial Id="KerbalBody">
+        <Diffuse Path="Textures/Kerbal/Body_A.png" Category="Default"/>
+        <Normal Id="EmptyNormal"/>
+        <AoRoughMetal Path="Textures/Kerbal/ORM.png" Category="Default"/>
+    </PbrMaterial>
+    <PbrMaterial Id="KerbalHead">
+        <Diffuse Path="Textures/Kerbal/Head_A.png" Category="Default"/>
+        <Normal Id="EmptyNormal"/>
+        <AoRoughMetal Path="Textures/Kerbal/ORM.png" Category="Default"/>
+    </PbrMaterial>
+    <PbrMaterial Id="KerbalEye">
+        <Diffuse Path="Textures/Kerbal/Eye_A.png" Category="Default"/>
+        <Normal Id="EmptyNormal"/>
+        <AoRoughMetal Path="Textures/Kerbal/ORM.png" Category="Default"/>
+    </PbrMaterial>
+    <CharacterTextures Id="KerbalTextures">
+        <CharacterBodyMaterial Id="KerbalBody"/>
+        <CharacterHeadMaterial Id="KerbalHead"/>
+        <CharacterEyeMaterial Id="KerbalEye"/>
+    </CharacterTextures>
+    <CharacterCore Id="KerbalCore">
+        <BodySource Id="KerbalGlb"/>
+        <LeftEyeBoneIndex Name="EyeJoint_L"/>
+        <RightEyeBoneIndex Name="EyeJoint_R"/>
+        <MaxBoneCount Value="256"/>
+        <HeadMeshIndices Value="0"/>
+        <HeadMeshIndices Value="1"/>
+        <HeadMeshIndices Value="2"/>
+        <HeadMeshIndices Value="3"/>
+        <HeadMeshIndices Value="5"/>
+        <HeadMeshIndices Value="6"/>
+        <HeadMeshIndices Value="7"/>
+        <HeadMeshIndices Value="8"/>
+    </CharacterCore>
+    <CharacterFur Id="KerbalFur">
+        <FurMeshIndex Value="8"/>
+        <FurShellDepth Value="0"/>
+        <FurMaskTexture Path="Textures/Kerbal/Eye_A.png" Category="Default"/>
+    </CharacterFur>
+    <CharacterExpressions Id="KerbalExpressions">
+        <ExpressionCenterIndex Name="EyeLidJoints_M"/>
+        <ExpressionScared Id="KerbalAnimExpScaredGlb"/>
+        <ExpressionHappy Id="KerbalAnimExpHappyGlb"/>
+        <ExpressionSad Id="KerbalAnimExpSadGlb"/>
+        <ExpressionAngry Id="KerbalAnimExpAngryGlb"/>
+        <ExpressionAwe Id="KerbalAnimExpAweGlb"/>
+    </CharacterExpressions>
+    <CharacterAnimationMasks Id="KerbalAnimationMasks">
+        <EarMask Name="be_l_thumb_d01"/>
+    </CharacterAnimationMasks>
+    <CharacterAttachment Id="KerbalHelmetAttachment">
+        <Source Id="KerbalHelmetGlb"/>
+        <Socket Name="Head_M"/>
+        <Materials>
+            <Diffuse Path="Textures/Kerbal/Helmet_A.png" Category="Default"/>
+            <Normal Id="EmptyNormal"/>
+            <AoRoughMetal Path="Textures/Kerbal/ORM.png" Category="Default"/>
+        </Materials>
+        <AttachmentType>Helmet</AttachmentType>
+    </CharacterAttachment>
+    <CharacterAttachment Id="KerbalMMUAttachment">
+        <Source Id="KittenMMUGlb"/>
+        <Socket Name="Chest_M"/>
+        <Materials>
+            <Diffuse Path="Textures/Characters/Attachments/KSA_MMU_Color.ktx2" Category="Default"/>
+            <Normal Path="Textures/Characters/Attachments/KSA_MMU_Normal.ktx2" Category="Default"/>
+            <AoRoughMetal Path="Textures/Characters/Attachments/KSA_MMU_ORM.ktx2" Category="Default"/>
+        </Materials>
+        <Materials>
+            <Diffuse Path="Textures/Characters/Attachments/KSA_MMU_Texts.ktx2" Category="Default"/>
+            <Normal Id="EmptyNormal"/>
+            <AoRoughMetal Path="Textures/Characters/EmptyAoRoughMetallic.png" Category="Default"/>
+        </Materials>
+        <Transform>
+            <Position X="-0.0000" Y="6.3624" Z="0.4180"/>
+            <Rotation X="-1.570797" Y="3.480527" Z="-4.712388"/>
+            <Scale X="1.0000" Y="1.0000" Z="1.0000"/>
+        </Transform>
+        <AttachmentType>MMU</AttachmentType>
+    </CharacterAttachment>
+    <CharacterAttachment Id="KerbalVisorAttachment">
+        <Source Id="KerbalVisorGlb"/>
+        <Socket Name="Head_M"/>
+        <Materials>
+            <Diffuse Path="Textures/Kerbal/Visor_A.png" Category="Default"/>
+            <Normal Id="EmptyNormal"/>
+            <AoRoughMetal Path="Textures/Kerbal/ORM.png" Category="Default"/>
+        </Materials>
+        <AttachmentType>Visor</AttachmentType>
+    </CharacterAttachment>
+    <CharacterMMUAnimations Id="KerbalMMUAnimations">
+        <MMUIdleDefaultAnim Id="KerbalAnimMMUIdle1Glb"/>
+        <MMUIdleActionsAnim Id="KerbalAnimMMUIdle2Glb"/>
+        <MMUIdleActionsAnim Id="KerbalAnimMMUIdle3Glb"/>
+        <MMUMoveLeftLoopAnim Id="KerbalAnimMMULeftGlb"/>
+        <MMUMoveRightLoopAnim Id="KerbalAnimMMURightGlb"/>
+        <MMUMoveForwardLoopAnim Id="KerbalAnimMMUForwardGlb"/>
+        <MMUMoveBackwardLoopAnim Id="KerbalAnimMMUBackwardGlb"/>
+        <MMUMoveUpLoopAnim Id="KerbalAnimMMUUpGlb"/>
+        <MMUMoveDownLoopAnim Id="KerbalAnimMMUDownGlb"/>
+        <MMUArmRetractAnim Id="KSA_MMU_Anim_ArmRetractGlb"/>
+    </CharacterMMUAnimations>
+    <CharacterGroundAnimations Id="KerbalGroundAnimations">
+        <AnimIdle Id="KerbalAnimIdleGlb"/>
+        <AnimWalk Id="KerbalAnimWalkGlb"/>
+        <AnimRun Id="KerbalAnimRunGlb"/>
+        <AnimLadder Id="KerbalAnimLadderGlb"/>
+        <AnimJump Id="KerbalAnimJumpGlb"/>
+        <AnimTumble Id="KerbalAnimTumbleGlb"/>
+        <AnimJumpLand Id="KerbalAnimJumpLandGlb"/>
+        <AnimMoonWalk Id="KerbalAnimMoonWalkGlb"/>
+        <AnimMoonRun Id="KerbalAnimMoonRunGlb"/>
+        <AnimSwim Id="KerbalAnimSwimGlb"/>
+        <AnimSwimIdle Id="KerbalAnimSwimIdleGlb"/>
+        <AnimSeatedIdle Id="KerbalAnimSeatedIdleGlb"/>
+        <AnimSeatedIdleAction Id="KerbalAnimSeatedShuffleGlb"/>
+    </CharacterGroundAnimations>
+    <Character Id="Kerbal">
+        <Personality Value="Neutral"/>
+        <CharacterCore Id="KerbalCore"/>
+        <CharacterTextures Id="KerbalTextures"/>
+        <CharacterHelmet Id="KerbalHelmetAttachment"/>
+        <CharacterVisor Id="KerbalVisorAttachment"/>
+        <CharacterMMU Id="KerbalMMUAttachment"/>
+        <CharacterFur Id="KerbalFur"/>
+        <CharacterExpressions Id="KerbalExpressions"/>
+        <CharacterMMUAnimations Id="KerbalMMUAnimations"/>
+        <CharacterAnimationMasks Id="KerbalAnimationMasks"/>
+        <CharacterGroundAnimations Id="KerbalGroundAnimations"/>
+    </Character>
+</Assets>
