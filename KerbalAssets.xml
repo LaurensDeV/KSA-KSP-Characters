@@ -13,88 +13,48 @@
         <Source Path="Characters/Kerbal/Anim/ANI_KSP_Idle.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimWalkGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Walk.glb"/>
+    <GltfFile Id="KerbalAnimWkCForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_WkCForward.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimRunGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Run.glb"/>
+    <GltfFile Id="KerbalAnimWkCRunGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_WkCRun.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimLadderGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Ladder.glb"/>
+    <GltfFile Id="KerbalAnimLadderUpGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_LadderUp.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimJumpGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Jump.glb"/>
+    <GltfFile Id="KerbalAnimJumpStillStartGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JumpStillStart.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimTumbleGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Tumble.glb"/>
+    <GltfFile Id="KerbalAnimSuspendedGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Suspended.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimJumpLandGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JumpLand.glb"/>
+    <GltfFile Id="KerbalAnimJumpStillEndGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JumpStillEnd.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimMoonWalkGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MoonWalk.glb"/>
+    <GltfFile Id="KerbalAnimWkCLoGForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_WkCLoGForward.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimMoonRunGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MoonRun.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimSwimGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Swim.glb"/>
+    <GltfFile Id="KerbalAnimSwimForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SwimForward.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
     <GltfFile Id="KerbalAnimSwimIdleGlb">
         <Source Path="Characters/Kerbal/Anim/ANI_KSP_SwimIdle.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimSeatedIdleGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SeatedIdle.glb"/>
+    <GltfFile Id="KerbalAnimDockingGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_Docking.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
-    <GltfFile Id="KerbalAnimSeatedShuffleGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_SeatedShuffle.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUIdle1Glb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle1.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUIdle2Glb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle2.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUIdle3Glb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUIdle3.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMULeftGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMULeft.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMURightGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMURight.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUForwardGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUForward.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUBackwardGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUBackward.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUUpGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUUp.glb"/>
-        <Skeleton Id="KerbalGlb"/>
-    </GltfFile>
-    <GltfFile Id="KerbalAnimMMUDownGlb">
-        <Source Path="Characters/Kerbal/Anim/ANI_KSP_MMUDown.glb"/>
+    <GltfFile Id="KerbalAnimJpSuspendedGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpSuspended.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
     <GltfFile Id="KerbalAnimExpScaredGlb">
@@ -115,6 +75,26 @@
     </GltfFile>
     <GltfFile Id="KerbalAnimExpAweGlb">
         <Source Path="Characters/Kerbal/Anim/ANI_KSP_ExpAwe.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJpIdleGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpIdle.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJpWkCForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpWkCForward.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJpJumpStillStartGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpJumpStillStart.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJpJumpStillEndGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpJumpStillEnd.glb"/>
+        <Skeleton Id="KerbalGlb"/>
+    </GltfFile>
+    <GltfFile Id="KerbalAnimJpWkCLoGForwardGlb">
+        <Source Path="Characters/Kerbal/Anim/ANI_KSP_JpWkCLoGForward.glb"/>
         <Skeleton Id="KerbalGlb"/>
     </GltfFile>
     <PbrMaterial Id="KerbalBody">
@@ -191,8 +171,8 @@
             <AoRoughMetal Path="Textures/Characters/EmptyAoRoughMetallic.png" Category="Default"/>
         </Materials>
         <Transform>
-            <Position X="-0.0000" Y="6.3624" Z="0.4180"/>
-            <Rotation X="-1.570797" Y="3.480527" Z="-4.712388"/>
+            <Position X="-0.0286" Y="6.5394" Z="-0.5468"/>
+            <Rotation X="1.570796" Y="-0.454266" Z="-1.570796"/>
             <Scale X="1.0000" Y="1.0000" Z="1.0000"/>
         </Transform>
         <AttachmentType>MMU</AttachmentType>
@@ -208,31 +188,28 @@
         <AttachmentType>Visor</AttachmentType>
     </CharacterAttachment>
     <CharacterMMUAnimations Id="KerbalMMUAnimations">
-        <MMUIdleDefaultAnim Id="KerbalAnimMMUIdle1Glb"/>
-        <MMUIdleActionsAnim Id="KerbalAnimMMUIdle2Glb"/>
-        <MMUIdleActionsAnim Id="KerbalAnimMMUIdle3Glb"/>
-        <MMUMoveLeftLoopAnim Id="KerbalAnimMMULeftGlb"/>
-        <MMUMoveRightLoopAnim Id="KerbalAnimMMURightGlb"/>
-        <MMUMoveForwardLoopAnim Id="KerbalAnimMMUForwardGlb"/>
-        <MMUMoveBackwardLoopAnim Id="KerbalAnimMMUBackwardGlb"/>
-        <MMUMoveUpLoopAnim Id="KerbalAnimMMUUpGlb"/>
-        <MMUMoveDownLoopAnim Id="KerbalAnimMMUDownGlb"/>
+        <MMUIdleDefaultAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveLeftLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveRightLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveForwardLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveBackwardLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveUpLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
+        <MMUMoveDownLoopAnim Id="KerbalAnimJpSuspendedGlb"/>
         <MMUArmRetractAnim Id="KSA_MMU_Anim_ArmRetractGlb"/>
     </CharacterMMUAnimations>
     <CharacterGroundAnimations Id="KerbalGroundAnimations">
         <AnimIdle Id="KerbalAnimIdleGlb"/>
-        <AnimWalk Id="KerbalAnimWalkGlb"/>
-        <AnimRun Id="KerbalAnimRunGlb"/>
-        <AnimLadder Id="KerbalAnimLadderGlb"/>
-        <AnimJump Id="KerbalAnimJumpGlb"/>
-        <AnimTumble Id="KerbalAnimTumbleGlb"/>
-        <AnimJumpLand Id="KerbalAnimJumpLandGlb"/>
-        <AnimMoonWalk Id="KerbalAnimMoonWalkGlb"/>
-        <AnimMoonRun Id="KerbalAnimMoonRunGlb"/>
-        <AnimSwim Id="KerbalAnimSwimGlb"/>
+        <AnimWalk Id="KerbalAnimWkCForwardGlb"/>
+        <AnimRun Id="KerbalAnimWkCRunGlb"/>
+        <AnimLadder Id="KerbalAnimLadderUpGlb"/>
+        <AnimJump Id="KerbalAnimJumpStillStartGlb"/>
+        <AnimTumble Id="KerbalAnimSuspendedGlb"/>
+        <AnimJumpLand Id="KerbalAnimJumpStillEndGlb"/>
+        <AnimMoonWalk Id="KerbalAnimWkCLoGForwardGlb"/>
+        <AnimMoonRun Id="KerbalAnimWkCLoGForwardGlb"/>
+        <AnimSwim Id="KerbalAnimSwimForwardGlb"/>
         <AnimSwimIdle Id="KerbalAnimSwimIdleGlb"/>
-        <AnimSeatedIdle Id="KerbalAnimSeatedIdleGlb"/>
-        <AnimSeatedIdleAction Id="KerbalAnimSeatedShuffleGlb"/>
+        <AnimSeatedIdle Id="KerbalAnimDockingGlb"/>
     </CharacterGroundAnimations>
     <Character Id="Kerbal">
         <Personality Value="Neutral"/>

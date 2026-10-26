@@ -1,0 +1,8 @@
+# character  slot  clip (GltfFile Id) played while the jetpack's RCS is on; read by the optional RcsStance mod
+Kerbal Idle KerbalAnimJpIdleGlb
+Kerbal Walk KerbalAnimJpWkCForwardGlb
+Kerbal Jump KerbalAnimJpJumpStillStartGlb
+Kerbal Tumble KerbalAnimJpSuspendedGlb
+Kerbal JumpLand KerbalAnimJpJumpStillEndGlb
+Kerbal MoonWalk KerbalAnimJpWkCLoGForwardGlb
+Kerbal MoonRun KerbalAnimJpWkCLoGForwardGlb
