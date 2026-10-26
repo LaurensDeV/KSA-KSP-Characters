@@ -1,15 +1,15 @@
-# Kerbal Port for Kitten Space Agency
+# KSP Characters for Kitten Space Agency
 
 Adds the Kerbal from Kerbal Space Program as a playable crew character in KSA: body, helmet, visor, jetpack (the game's own MMU), and KSP's own animations.
 
 ## Install
 
-1. Copy this whole folder (`KerbalPort`) into `Documents/My Games/Kitten Space Agency/mods/`.
+1. Copy this whole folder (`KSP-Characters`) into `Documents/My Games/Kitten Space Agency/mods/`.
 2. Start the game. It detects the new mod by itself.
 
 That is all. Kerbals join the pool the game draws crew from, next to the kittens, so new crew members are a random mix. Saves that already exist keep the characters they have.
 
-If the Kerbal does not show up, open `Documents/My Games/Kitten Space Agency/manifest.toml` and make sure the `KerbalPort` entry has `enabled = true`.
+If the Kerbal does not show up, open `Documents/My Games/Kitten Space Agency/manifest.toml` and make sure the `KSP-Characters` entry has `enabled = true`.
 
 ## Contents
 
