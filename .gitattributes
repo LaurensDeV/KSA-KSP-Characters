@@ -2,3 +2,5 @@
 .gitattributes export-ignore
 # input for a future code mod (RCS stance on the ground); nothing reads it yet
 rcs_stance.txt export-ignore
+# input for a future code mod (Kerbal crew names); nothing reads it yet
+kerbal_names.txt export-ignore
