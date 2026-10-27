@@ -1,3 +1,4 @@
 name = "KSP Characters"
+version = "0.1.0"
 
 assets = [ "KerbalAssets.xml" ]
