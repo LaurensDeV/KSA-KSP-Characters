@@ -4,3 +4,4 @@
 rcs_stance.txt export-ignore
 # input for a future code mod (Kerbal crew names); nothing reads it yet
 kerbal_names.txt export-ignore
+kerbal_names.md export-ignore
